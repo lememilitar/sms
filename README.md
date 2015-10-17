@@ -1,2 +1,2 @@
 # sms
-classe python para envio de sms
+class python to send sms
